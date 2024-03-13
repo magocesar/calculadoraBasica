@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">calculadoraBasica</string>
+    <string name="calculadora">Calculadora</string>
+    <string name="primeiro_valor">Primeiro Valor</string>
+    <string name="segundo_valor">Segundo valor</string>
+    <string name="somar">Somar</string>
+    <string name="subtrair">Subtrair</string>
+    <string name="multiplicar">Multiplicar</string>
+    <string name="dividir">Dividir</string>
+    <string name="resultado">Resultado</string>
+    <string name="apagar">Apagar</string>
+</resources>
